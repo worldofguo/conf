@@ -1,7 +1,7 @@
 # GLaDOS
 # GLobal Local and Destination Operating System
-# Mihomo Config File for Mozilla/5.0-355303-0-7
-# Generated at Mon Mar 31 2025 16:56:49 GMT+0000 (Coordinated Universal Time) by Aperture Science
+# Mihomo Config File for Mozilla/5.0-355303-0-6
+# Generated at Tue Apr 01 2025 16:55:46 GMT+0000 (Coordinated Universal Time) by Aperture Science
 # ░██████╗░██╗░░░░░░█████╗░██████╗░░█████╗░░██████╗
 # ██╔════╝░██║░░░░░██╔══██╗██╔══██╗██╔══██╗██╔════╝
 # ██║░░██╗░██║░░░░░███████║██║░░██║██║░░██║╚█████╗░
@@ -58,7 +58,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.de:38228
+      host: 54d7f8d.dl.microsoft.ch:38228
   - name: GLaDOS-B1-02
     type: ss
     server: 54d7f8d.b2.glados-config.com
@@ -69,7 +69,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.blizzard.com:38228
+      host: 54d7f8d.dl.mozilla.net:38228
   - name: GLaDOS-B1-03
     type: ss
     server: 54d7f8d.b3.glados-config.com
@@ -80,7 +80,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.ge:38228
+      host: 54d7f8d.dl.nintendo.jp:38228
   - name: GLaDOS-B1-04
     type: ss
     server: 54d7f8d.b4.glados-config.com
@@ -91,7 +91,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.nintendo.eu:38228
+      host: 54d7f8d.dl.microsoft.eu:38228
   - name: GLaDOS-B1-05
     type: ss
     server: 54d7f8d.b5.glados-config.com
@@ -102,7 +102,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.md:38228
+      host: 54d7f8d.dl.nintendo.net:38228
   - name: GLaDOS-B1-06
     type: ss
     server: 54d7f8d.b6.glados-config.com
@@ -113,7 +113,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.es:38228
+      host: 54d7f8d.dl.microsoft.ge:38228
   - name: GLaDOS-B1-07
     type: ss
     server: 54d7f8d.b7.glados-config.com
@@ -124,7 +124,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.nintendo.eu:38228
+      host: 54d7f8d.dl.mozilla.net:38228
   - name: GLaDOS-B1-08
     type: ss
     server: 54d7f8d.b8.glados-config.com
@@ -135,7 +135,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.ee:38228
+      host: 54d7f8d.dl.microsoft.fi:38228
   - name: GLaDOS-B1-09
     type: ss
     server: 54d7f8d.b9.glados-config.com
@@ -146,7 +146,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.blizzard.com:38228
+      host: 54d7f8d.dl.nintendo.jp:38228
 
   - name: GLaDOS-US-01
     type: ss
@@ -158,7 +158,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.xboxlive.com:38228
+      host: 54d7f8d.dl.microsoft.lu:38228
   - name: GLaDOS-US-02
     type: ss
     server: 54d7f8d.u2.glados-config.com
@@ -169,7 +169,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.md:38228
+      host: 54d7f8d.dl.epicgames.com:38228
   - name: GLaDOS-US-03
     type: ss
     server: 54d7f8d.u3.glados-config.com
@@ -180,7 +180,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.io:38228
+      host: 54d7f8d.dl.xboxlive.com:38228
   - name: GLaDOS-US-04
     type: ss
     server: 54d7f8d.u4.glados-config.com
@@ -191,7 +191,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.it:38228
+      host: 54d7f8d.dl.microsoft.is:38228
   - name: GLaDOS-US-05
     type: ss
     server: 54d7f8d.u5.glados-config.com
@@ -202,7 +202,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.md:38228
+      host: 54d7f8d.dl.nintendo.be:38228
   - name: GLaDOS-US-06
     type: ss
     server: 54d7f8d.u6.glados-config.com
@@ -213,7 +213,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.blizzard.com:38228
+      host: 54d7f8d.dl.mozilla.net:38228
   - name: GLaDOS-JP-01
     type: ss
     server: 54d7f8d.j1.glados-config.com
@@ -224,7 +224,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.nintendo.net:38228
+      host: 54d7f8d.dl.microsoft.hu:38228
   - name: GLaDOS-JP-02
     type: ss
     server: 54d7f8d.j2.glados-config.com
@@ -235,7 +235,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.de:38228
+      host: 54d7f8d.dl.nintendo.eu:38228
   - name: GLaDOS-JP-03
     type: ss
     server: 54d7f8d.j3.glados-config.com
@@ -246,7 +246,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.es:38228
+      host: 54d7f8d.dl.microsoft.jp:38228
   - name: GLaDOS-TW-01
     type: ss
     server: 54d7f8d.t1.glados-config.com
@@ -257,7 +257,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.md:38228
+      host: 54d7f8d.dl.microsoft.de:38228
   - name: GLaDOS-TW-02
     type: ss
     server: 54d7f8d.t2.glados-config.com
@@ -268,7 +268,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.nvidia.com:38228
+      host: 54d7f8d.dl.microsoft.cat:38228
   - name: GLaDOS-TW-03
     type: ss
     server: 54d7f8d.t3.glados-config.com
@@ -279,7 +279,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.com:38228
+      host: 54d7f8d.dl.nintendo.es:38228
   - name: GLaDOS-TW-04
     type: ss
     server: 54d7f8d.t4.glados-config.com
@@ -290,7 +290,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.nvidia.com:38228
+      host: 54d7f8d.dl.nintendo.es:38228
   - name: GLaDOS-TW-05
     type: ss
     server: 54d7f8d.t5.glados-config.com
@@ -301,7 +301,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.hu:38228
+      host: 54d7f8d.dl.nintendo.net:38228
   - name: GLaDOS-TW-06
     type: ss
     server: 54d7f8d.t6.glados-config.com
@@ -312,7 +312,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.hu:38228
+      host: 54d7f8d.dl.microsoft.eu:38228
   - name: GLaDOS-SG-01
     type: ss
     server: 54d7f8d.s1.glados-config.com
@@ -323,7 +323,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.blizzard.com:38228
+      host: 54d7f8d.dl.microsoft.fi:38228
   - name: GLaDOS-SG-02
     type: ss
     server: 54d7f8d.s2.glados-config.com
@@ -334,7 +334,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.is:38228
+      host: 54d7f8d.dl.microsoft.it:38228
   - name: GLaDOS-SG-03
     type: ss
     server: 54d7f8d.s3.glados-config.com
@@ -345,7 +345,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.lt:38228
+      host: 54d7f8d.dl.nintendo.de:38228
   - name: GLaDOS-HK-01
     type: ss
     server: 54d7f8d.h1.glados-config.com
@@ -356,7 +356,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.io:38228
+      host: 54d7f8d.dl.microsoft.dk:38228
   - name: GLaDOS-HK-02
     type: ss
     server: 54d7f8d.h2.glados-config.com
@@ -367,7 +367,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.hu:38228
+      host: 54d7f8d.dl.microsoft.cat:38228
   - name: GLaDOS-HK-03
     type: ss
     server: 54d7f8d.h3.glados-config.com
@@ -378,7 +378,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.ge:38228
+      host: 54d7f8d.dl.fastly.net:38228
 
   - name: GLaDOS-D1-01
     type: ss
@@ -390,7 +390,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.blizzard.com:38228
+      host: 54d7f8d.dl.nintendo.com:38228
   - name: GLaDOS-D1-02
     type: ss
     server: 54d7f8d.db.glados-config.com
@@ -401,7 +401,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.nintendo.net:38228
+      host: 54d7f8d.dl.microsoft.hu:38228
   - name: GLaDOS-D1-03
     type: ss
     server: 54d7f8d.dc.glados-config.com
@@ -412,7 +412,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.nintendo.es:38228
+      host: 54d7f8d.dl.fastly.net:38228
 
   - name: GLaDOS-S2-01
     type: ss
@@ -424,7 +424,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.it.net:38228
+      host: 54d7f8d.dl.blizzard.com.net:38228
   - name: GLaDOS-S2-02
     type: ss
     server: 54d7f8d.f2.glados-config.com
@@ -435,7 +435,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.fi.net:38228
+      host: 54d7f8d.dl.blizzard.com.net:38228
   - name: GLaDOS-S2-03
     type: ss
     server: 54d7f8d.f3.glados-config.com
@@ -446,7 +446,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 54d7f8d.dl.microsoft.ge.net:38228
+      host: 54d7f8d.dl.microsoft.it.net:38228
 
 
 
