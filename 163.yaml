@@ -1,7 +1,7 @@
 # GLaDOS
 # GLobal Local and Destination Operating System
 # Mihomo Config File for Mozilla/5.0-335006-0-7
-# Generated at Thu Apr 10 2025 16:56:57 GMT+0000 (Coordinated Universal Time) by Aperture Science
+# Generated at Fri Apr 11 2025 16:55:19 GMT+0000 (Coordinated Universal Time) by Aperture Science
 # ░██████╗░██╗░░░░░░█████╗░██████╗░░█████╗░░██████╗
 # ██╔════╝░██║░░░░░██╔══██╗██╔══██╗██╔══██╗██╔════╝
 # ██║░░██╗░██║░░░░░███████║██║░░██║██║░░██║╚█████╗░
@@ -58,7 +58,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.blizzard.com:83350
+      host: 2ddd5ae.dl.nintendo.net:83350
   - name: GLaDOS-B1-02
     type: ss
     server: 2ddd5ae.b2.glados-config.com
@@ -69,7 +69,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.lv:83350
+      host: 2ddd5ae.dl.nintendo.it:83350
   - name: GLaDOS-B1-03
     type: ss
     server: 2ddd5ae.b3.glados-config.com
@@ -80,7 +80,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.de:83350
+      host: 2ddd5ae.dl.mozilla.net:83350
   - name: GLaDOS-B1-04
     type: ss
     server: 2ddd5ae.b4.glados-config.com
@@ -91,7 +91,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.de:83350
+      host: 2ddd5ae.dl.microsoft.fi:83350
   - name: GLaDOS-B1-05
     type: ss
     server: 2ddd5ae.b5.glados-config.com
@@ -102,7 +102,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.nintendo.net:83350
+      host: 2ddd5ae.dl.microsoft.cl:83350
   - name: GLaDOS-B1-06
     type: ss
     server: 2ddd5ae.b6.glados-config.com
@@ -113,7 +113,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.dk:83350
+      host: 2ddd5ae.dl.microsoft.md:83350
   - name: GLaDOS-B1-07
     type: ss
     server: 2ddd5ae.b7.glados-config.com
@@ -124,7 +124,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.fi:83350
+      host: 2ddd5ae.dl.nintendo.net:83350
   - name: GLaDOS-B1-08
     type: ss
     server: 2ddd5ae.b8.glados-config.com
@@ -135,7 +135,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.nintendo.be:83350
+      host: 2ddd5ae.dl.mozilla.net:83350
   - name: GLaDOS-B1-09
     type: ss
     server: 2ddd5ae.b9.glados-config.com
@@ -146,7 +146,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.dk:83350
+      host: 2ddd5ae.dl.microsoft.net:83350
 
   - name: GLaDOS-US-01
     type: ss
@@ -158,7 +158,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.epicgames.com:83350
+      host: 2ddd5ae.dl.nintendo.de:83350
   - name: GLaDOS-US-02
     type: ss
     server: 2ddd5ae.u2.glados-config.com
@@ -169,7 +169,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.es:83350
+      host: 2ddd5ae.dl.microsoft.lu:83350
   - name: GLaDOS-US-03
     type: ss
     server: 2ddd5ae.u3.glados-config.com
@@ -180,7 +180,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.blizzard.com:83350
+      host: 2ddd5ae.dl.nintendo.it:83350
   - name: GLaDOS-US-04
     type: ss
     server: 2ddd5ae.u4.glados-config.com
@@ -191,7 +191,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.mozilla.net:83350
+      host: 2ddd5ae.dl.microsoft.dk:83350
   - name: GLaDOS-US-05
     type: ss
     server: 2ddd5ae.u5.glados-config.com
@@ -202,7 +202,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.nintendo.com:83350
+      host: 2ddd5ae.dl.microsoft.ch:83350
   - name: GLaDOS-US-06
     type: ss
     server: 2ddd5ae.u6.glados-config.com
@@ -213,7 +213,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.epicgames.com:83350
+      host: 2ddd5ae.dl.blizzard.com:83350
   - name: GLaDOS-JP-01
     type: ss
     server: 2ddd5ae.j1.glados-config.com
@@ -224,7 +224,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.nintendo.com:83350
+      host: 2ddd5ae.dl.microsoft.com:83350
   - name: GLaDOS-JP-02
     type: ss
     server: 2ddd5ae.j2.glados-config.com
@@ -246,7 +246,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.eu:83350
+      host: 2ddd5ae.dl.xboxlive.com:83350
   - name: GLaDOS-TW-01
     type: ss
     server: 2ddd5ae.t1.glados-config.com
@@ -257,7 +257,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.epicgames.com:83350
+      host: 2ddd5ae.dl.nintendo.net:83350
   - name: GLaDOS-TW-02
     type: ss
     server: 2ddd5ae.t2.glados-config.com
@@ -268,7 +268,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.net:83350
+      host: 2ddd5ae.dl.nintendo.it:83350
   - name: GLaDOS-TW-03
     type: ss
     server: 2ddd5ae.t3.glados-config.com
@@ -279,7 +279,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.nintendo.de:83350
+      host: 2ddd5ae.dl.microsoft.dk:83350
   - name: GLaDOS-TW-04
     type: ss
     server: 2ddd5ae.t4.glados-config.com
@@ -290,7 +290,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.jp:83350
+      host: 2ddd5ae.dl.nintendo.jp:83350
   - name: GLaDOS-TW-05
     type: ss
     server: 2ddd5ae.t5.glados-config.com
@@ -312,7 +312,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.ch:83350
+      host: 2ddd5ae.dl.microsoft.com:83350
   - name: GLaDOS-SG-01
     type: ss
     server: 2ddd5ae.s1.glados-config.com
@@ -323,7 +323,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.epicgames.com:83350
+      host: 2ddd5ae.dl.microsoft.ee:83350
   - name: GLaDOS-SG-02
     type: ss
     server: 2ddd5ae.s2.glados-config.com
@@ -334,7 +334,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.net:83350
+      host: 2ddd5ae.dl.microsoft.es:83350
   - name: GLaDOS-SG-03
     type: ss
     server: 2ddd5ae.s3.glados-config.com
@@ -345,7 +345,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.it:83350
+      host: 2ddd5ae.dl.microsoft.ch:83350
   - name: GLaDOS-HK-01
     type: ss
     server: 2ddd5ae.h1.glados-config.com
@@ -356,7 +356,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.ee:83350
+      host: 2ddd5ae.dl.microsoft.lt:83350
   - name: GLaDOS-HK-02
     type: ss
     server: 2ddd5ae.h2.glados-config.com
@@ -367,7 +367,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.jp:83350
+      host: 2ddd5ae.dl.microsoft.fi:83350
   - name: GLaDOS-HK-03
     type: ss
     server: 2ddd5ae.h3.glados-config.com
@@ -378,7 +378,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.fi:83350
+      host: 2ddd5ae.dl.nintendo.jp:83350
 
   - name: GLaDOS-D1-01
     type: ss
@@ -390,7 +390,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.it:83350
+      host: 2ddd5ae.dl.microsoft.fi:83350
   - name: GLaDOS-D1-02
     type: ss
     server: 2ddd5ae.db.glados-config.com
@@ -401,7 +401,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.net:83350
+      host: 2ddd5ae.dl.microsoft.fi:83350
   - name: GLaDOS-D1-03
     type: ss
     server: 2ddd5ae.dc.glados-config.com
@@ -412,7 +412,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.cat:83350
+      host: 2ddd5ae.dl.nintendo.net:83350
 
   - name: GLaDOS-S2-01
     type: ss
@@ -424,7 +424,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.cz.net:83350
+      host: 2ddd5ae.dl.xboxlive.com.net:83350
   - name: GLaDOS-S2-02
     type: ss
     server: 2ddd5ae.f2.glados-config.com
@@ -435,7 +435,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.ch.net:83350
+      host: 2ddd5ae.dl.microsoft.es.net:83350
   - name: GLaDOS-S2-03
     type: ss
     server: 2ddd5ae.f3.glados-config.com
@@ -446,7 +446,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 2ddd5ae.dl.microsoft.es.net:83350
+      host: 2ddd5ae.dl.microsoft.cz.net:83350
 
 
 
