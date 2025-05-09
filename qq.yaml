@@ -1,7 +1,7 @@
 # GLaDOS
 # GLobal Local and Destination Operating System
-# Mihomo Config File for Mozilla/5.0-435586-21-19
-# Generated at Thu May 08 2025 16:57:51 GMT+0000 (Coordinated Universal Time) by Aperture Science
+# Mihomo Config File for Mozilla/5.0-435586-21-18
+# Generated at Fri May 09 2025 16:55:40 GMT+0000 (Coordinated Universal Time) by Aperture Science
 # ░██████╗░██╗░░░░░░█████╗░██████╗░░█████╗░░██████╗
 # ██╔════╝░██║░░░░░██╔══██╗██╔══██╗██╔══██╗██╔════╝
 # ██║░░██╗░██║░░░░░███████║██║░░██║██║░░██║╚█████╗░
@@ -58,7 +58,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.io:145163
+      host: 91b6165.dl.nintendo.es:145163
   - name: GLaDOS-B1-02
     type: ss
     server: 91b6165.b2.glados-config.net
@@ -69,7 +69,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.net:145163
+      host: 91b6165.dl.mozilla.net:145163
   - name: GLaDOS-B1-03
     type: ss
     server: 91b6165.b3.glados-config.net
@@ -80,7 +80,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nvidia.com:145163
+      host: 91b6165.dl.microsoft.net:145163
   - name: GLaDOS-B1-04
     type: ss
     server: 91b6165.b4.glados-config.net
@@ -91,7 +91,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.blizzard.com:145163
+      host: 91b6165.dl.nintendo.net:145163
   - name: GLaDOS-B1-05
     type: ss
     server: 91b6165.b5.glados-config.net
@@ -102,7 +102,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.xboxlive.com:145163
+      host: 91b6165.dl.nintendo.jp:145163
   - name: GLaDOS-B1-06
     type: ss
     server: 91b6165.b6.glados-config.net
@@ -113,7 +113,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.cz:145163
+      host: 91b6165.dl.microsoft.hu:145163
   - name: GLaDOS-B1-07
     type: ss
     server: 91b6165.b7.glados-config.net
@@ -124,7 +124,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.hu:145163
+      host: 91b6165.dl.microsoft.lt:145163
   - name: GLaDOS-B1-08
     type: ss
     server: 91b6165.b8.glados-config.net
@@ -135,7 +135,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.be:145163
+      host: 91b6165.dl.microsoft.hu:145163
   - name: GLaDOS-B1-09
     type: ss
     server: 91b6165.b9.glados-config.net
@@ -158,7 +158,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.com:145163
+      host: 91b6165.dl.microsoft.it:145163
   - name: GLaDOS-US-02
     type: ss
     server: 91b6165.u2.glados-config.net
@@ -169,7 +169,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.es:145163
+      host: 91b6165.dl.epicgames.com:145163
   - name: GLaDOS-US-03
     type: ss
     server: 91b6165.u3.glados-config.net
@@ -180,7 +180,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.xboxlive.com:145163
+      host: 91b6165.dl.nintendo.jp:145163
   - name: GLaDOS-US-04
     type: ss
     server: 91b6165.u4.glados-config.net
@@ -191,7 +191,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.com:145163
+      host: 91b6165.dl.microsoft.cl:145163
   - name: GLaDOS-US-05
     type: ss
     server: 91b6165.u5.glados-config.net
@@ -202,7 +202,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.de:145163
+      host: 91b6165.dl.nintendo.it:145163
   - name: GLaDOS-US-06
     type: ss
     server: 91b6165.u6.glados-config.net
@@ -213,7 +213,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.be:145163
+      host: 91b6165.dl.microsoft.cat:145163
   - name: GLaDOS-JP-01
     type: ss
     server: 91b6165.j1.glados-config.net
@@ -224,7 +224,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.net:145163
+      host: 91b6165.dl.microsoft.is:145163
   - name: GLaDOS-JP-02
     type: ss
     server: 91b6165.j2.glados-config.net
@@ -235,7 +235,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.it:145163
+      host: 91b6165.dl.microsoft.lu:145163
   - name: GLaDOS-JP-03
     type: ss
     server: 91b6165.j3.glados-config.net
@@ -246,7 +246,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.it:145163
+      host: 91b6165.dl.microsoft.ee:145163
   - name: GLaDOS-TW-01
     type: ss
     server: 91b6165.t1.glados-config.net
@@ -257,7 +257,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.com:145163
+      host: 91b6165.dl.nintendo.eu:145163
   - name: GLaDOS-TW-02
     type: ss
     server: 91b6165.t2.glados-config.net
@@ -268,7 +268,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.cz:145163
+      host: 91b6165.dl.microsoft.hu:145163
   - name: GLaDOS-TW-03
     type: ss
     server: 91b6165.t3.glados-config.net
@@ -279,7 +279,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.cz:145163
+      host: 91b6165.dl.microsoft.jp:145163
   - name: GLaDOS-TW-04
     type: ss
     server: 91b6165.t4.glados-config.net
@@ -290,7 +290,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.jp:145163
+      host: 91b6165.dl.microsoft.cz:145163
   - name: GLaDOS-TW-05
     type: ss
     server: 91b6165.t5.glados-config.net
@@ -301,7 +301,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.eu:145163
+      host: 91b6165.dl.microsoft.md:145163
   - name: GLaDOS-TW-06
     type: ss
     server: 91b6165.t6.glados-config.net
@@ -312,7 +312,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.blizzard.com:145163
+      host: 91b6165.dl.nintendo.net:145163
   - name: GLaDOS-SG-01
     type: ss
     server: 91b6165.s1.glados-config.net
@@ -323,7 +323,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.dk:145163
+      host: 91b6165.dl.mozilla.net:145163
   - name: GLaDOS-SG-02
     type: ss
     server: 91b6165.s2.glados-config.net
@@ -334,7 +334,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.jp:145163
+      host: 91b6165.dl.nintendo.eu:145163
   - name: GLaDOS-SG-03
     type: ss
     server: 91b6165.s3.glados-config.net
@@ -345,7 +345,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.hu:145163
+      host: 91b6165.dl.microsoft.it:145163
   - name: GLaDOS-HK-01
     type: ss
     server: 91b6165.h1.glados-config.net
@@ -356,7 +356,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.es:145163
+      host: 91b6165.dl.microsoft.ch:145163
   - name: GLaDOS-HK-02
     type: ss
     server: 91b6165.h2.glados-config.net
@@ -367,7 +367,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.es:145163
+      host: 91b6165.dl.microsoft.jp:145163
   - name: GLaDOS-HK-03
     type: ss
     server: 91b6165.h3.glados-config.net
@@ -378,7 +378,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nvidia.com:145163
+      host: 91b6165.dl.microsoft.net:145163
 
   - name: GLaDOS-D1-01
     type: ss
@@ -390,7 +390,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.nintendo.com:145163
+      host: 91b6165.dl.xboxlive.com:145163
   - name: GLaDOS-D1-02
     type: ss
     server: 91b6165.db.glados-config.net
@@ -401,7 +401,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.lv:145163
+      host: 91b6165.dl.nintendo.es:145163
   - name: GLaDOS-D1-03
     type: ss
     server: 91b6165.dc.glados-config.net
@@ -412,7 +412,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.de:145163
+      host: 91b6165.dl.microsoft.cl:145163
 
   - name: GLaDOS-S2-01
     type: ss
@@ -424,7 +424,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.dk.net:145163
+      host: 91b6165.dl.microsoft.it.net:145163
   - name: GLaDOS-S2-02
     type: ss
     server: 91b6165.f2.glados-config.net
@@ -435,7 +435,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.lv.net:145163
+      host: 91b6165.dl.microsoft.lt.net:145163
   - name: GLaDOS-S2-03
     type: ss
     server: 91b6165.f3.glados-config.net
@@ -446,7 +446,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.cat.net:145163
+      host: 91b6165.dl.microsoft.lv.net:145163
 
 
 
@@ -460,7 +460,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.cl.net:145163
+      host: 91b6165.dl.microsoft.dk.net:145163
   - name: GLaDOS-Netflix-02
     type: ss
     server: 91b6165.d2.glados-config.net
@@ -471,7 +471,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.microsoft.jp.net:145163
+      host: 91b6165.dl.microsoft.com.net:145163
   - name: GLaDOS-Netflix-03
     type: ss
     server: 91b6165.d3.glados-config.net
@@ -482,7 +482,7 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: tls
-      host: 91b6165.dl.epicgames.com.net:145163
+      host: 91b6165.dl.microsoft.cl.net:145163
 
 
 
